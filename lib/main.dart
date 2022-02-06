@@ -17,7 +17,9 @@ class contactHome extends StatelessWidget {
         title: Text("Home"),
         backgroundColor: Colors.cyan[200],
       ),
-      body: Text("Namaste sabailai!!"),
+      body: Text("Namaste sabailai!! eat shit stupidos hahahaha
+      hahahhaha 
+all are stupidos"),
       ),
       );
   }
